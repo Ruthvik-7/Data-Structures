@@ -12,9 +12,9 @@ This repository contains Python implementations of various data structures. Thes
 6. **Hash Table** - A data structure that stores key-value pairs and allows fast access using a hash function.
 
 
-- **linked_list.py** - Implementation of Singly, Doubly, and Circular Linked List.
-- **stack.py** - Stack implementation using Arrays and Linked List.
-- **queue.py** - Queue implementation including Circular and Priority Queue.
-- **binary_tree.py** - Binary Tree implementation.
-- **bst.py** - Binary Search Tree (BST) implementation.
-- **hash_table.py** - Hash Table implementation.
+- **linked_list** - Implementation of Singly, Doubly, and Circular Linked List.
+- **stack** - Stack implementation using Arrays and Linked List.
+- **queue** - Queue implementation including Circular and Priority Queue.
+- **binary_tree** - Binary Tree implementation.
+- **bst** - Binary Search Tree (BST) implementation.
+- **hash_table** - Hash Table implementation.
